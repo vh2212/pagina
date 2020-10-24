@@ -1,2 +1,2 @@
 # API con PHP
-* Los archivos BL y service, van en una carpeta parte del archivo de conexión.
+* Los archivos BL y Service, van en una carpeta aparte del archivo de conexión.
